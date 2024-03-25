@@ -62,10 +62,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/madhu123-4/madhu123-4/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
